@@ -1,0 +1,29 @@
+{
+  "name": "tabby-encoding-auto-detect",
+  "version": "1.0.0",
+  "description": "Auto encoding detection plugin for SSH/Telnet sessions",
+  "keywords": [
+    "tabby-builtin-plugin"
+  ],
+  "main": "dist/index.js",
+  "typings": "typings/index.d.ts",
+  "scripts": {
+    "build": "webpack --config webpack.config.mjs",
+    "watch": "webpack --config webpack.config.mjs --watch"
+  },
+  "files": [
+    "src",
+    "typings"
+  ],
+  "author": "Han <hhy0712@163.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": "^15",
+    "tabby-core": "*",
+    "tabby-terminal": "*"
+  },
+  "dependencies": {
+    "jschardet": "^3.0.0",
+    "iconv-lite": "^0.6.3"
+  }
+}

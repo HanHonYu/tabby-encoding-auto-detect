@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: tabby\n"
+"X-Crowdin-Project-ID: 493349\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /locale/tabby-encoding-auto-detect.pot\n"
+"Project-Id-Version: tabby\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+
+msgid "Encoding Detection"
+msgstr "编码检测"
+
+msgid "Automatic encoding detection"
+msgstr "自动编码检测"
+
+msgid "Enable automatic encoding detection"
+msgstr "启用自动编码检测"
+
+msgid "Confidence threshold"
+msgstr "置信度阈值"
+
+msgid "Sample size for detection (bytes)"
+msgstr "检测样本大小（字节）"
+
+msgid "Auto-switch encoding when detected"
+msgstr "检测到编码时自动切换"
+
+msgid "Log detection results"
+msgstr "记录检测结果"
+
+msgid "Fallback encoding"
+msgstr "备用编码"
+
+msgid "Preferred encodings"
+msgstr "首选编码"
+
+msgid "The order of encoding detection priority"
+msgstr "编码检测优先级顺序"
